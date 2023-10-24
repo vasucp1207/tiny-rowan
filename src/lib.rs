@@ -1,6 +1,6 @@
-mod pure;
 mod sll;
 mod delta;
+mod pure;
 
 use core::panic;
 use std::{
